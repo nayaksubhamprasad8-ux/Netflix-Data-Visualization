@@ -63,7 +63,7 @@ Netflix-Visualization/
 
 ▶️ How to Run
 Clone the repository
-git clone https://github.com/your-username/netflix-visualization.git
+git clone https://github.com/nayaksubhamprasad8-ux/Netflix-Data-Visualization/tree/main/Netflix%20Data%20Visualization
 
 Install dependencies
 pip install pandas matplotlib
